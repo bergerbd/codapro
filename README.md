@@ -1,2 +1,2 @@
-# codapro
+# CoDaPro
 Component-based data processing
