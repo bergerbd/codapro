@@ -1,3 +1,12 @@
 ## Welcome to CoDaPro
 
-More information on CoDaPro will follow. Please be patient.
+CoDaPro is lightweight but fast data processing tool for measurement data.
+
+# Download
+
+# Usage
+
+# Build
+
+
+
